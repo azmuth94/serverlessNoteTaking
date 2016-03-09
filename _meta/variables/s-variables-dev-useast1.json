@@ -1,0 +1,6 @@
+{
+  "region": "us-east-1",
+  "resourcesStackName": "notes7-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::012090330882:role/notes7-dev-r-IamRoleLambda-2F4GF5TP8TNU",
+  "apiGatewayApi": "notes7"
+}

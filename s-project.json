@@ -1,0 +1,14 @@
+{
+  "name": "notes7",
+  "version": "0.0.1",
+  "profile": "serverless-v0.4.2",
+  "location": "https://github.com/azmuth94/serverlessNoteTaking.git",
+  "author": "Daniel Aksenov",
+  "description": "A Slick New Serverless Project",
+  "custom": {},
+  "plugins": [
+
+    "serverless-client-s3"
+
+  ]
+}
